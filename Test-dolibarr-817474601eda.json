@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "test-dolibarr-197313",
+  "private_key_id": "817474601eda04c15792cbd0304d43e12cef5407",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDhC5WUnw1I7Tb3\nx4yH6gIgwJQVHIxwdGLOF8vAIx0De+iaN6nUWUQA9q6BmPmYzc0+kppfJqlPkp/0\nXMCgHOlSCASEYNxMd0RkrR8QYi8VTUOhT0kL6SHW3Dp78s3c/NU6DBPA2Ak8uxNX\ntidenC/0/EZNPOUQio6vx8sb/NN5PzOcjLGF3NYA+tzKpubDJ40kfRGVHWhLpVzP\new+akk7RzP+pnniKzyMLfUsO5oOI2YAMrKHratseY2Ri8mSQjEpBbF/y+IcWQlz2\nqKi2i+2WpqRCZj+9CBBfsYj186s0gM6qnLsIx8LfRgnRTv8z2M+9kCIhDX1W0fmj\na4q+NMbhAgMBAAECgf9Vp4MXPjJgP2lchacHVBnbPXEfV+5cHvA8YPI7/yFb4h12\nFRmeqRspArsIuKDHeA1Wc5YuARkQIE6hQ2xNhLOJdWPCvtsaf4qYhwv7wGMLSI0l\nKHg1AFbQ4KGh65hPNCw0G8So8ZESfGGwULRLXkcih6J6Y2MMGLCWVwUHcgNLcfv7\nWR5qUXuD4H02dYpJWQSi47sdp6ojlk0HeCDcMMETAxbvWjXETirq5Y+wl4U5soMQ\n36oYXJyIPIDmrDkssDGGOb5nB9FXlxyWj4FB0DSfrJ6ddlnnyaTCt7ZMvYS4KgcZ\n3WwhIGnqmI+TFOfcpM3eGFRkn+tz8ngvVZyXFwECgYEA9o5mmQA4CuEkpDJn+NMM\noanqOK+2up+hhHJgs5mrQbIjoqtFyznYy56OMceFUcHKoXMG3orEpfWnzZlOrduO\nYDjNgu62WSLS/XuybucjAkV+tsf17MBoLMtQJm8ZvovKmum7zFa5HYlg4x5zFbbi\nifWE/UmEstSEqq6cjwxJgYECgYEA6apCEztsPwAFgHJJGkkSZtdD4j3hbQXVCiQ7\n778J5DKAs6uS6xLZ8Qfw9ek27u63i0/j4qiq62FKrzjWdJqfWUz6xbDw+ZMfXGJe\n6QGkdejfCXRP5kziwcpG2thsYgJhzo+77JNixWhCzzh6bKyd0iY8N229gD9TlohK\nLk4LNWECgYA5FvoMvW88natFVeKbTAslt9ljLNSr2+CjcXSQwalU+fGkbfIoP4nC\nhEE6p49oQe4wehkCGLG2F+61/aSpPyh1gVGc2rdgZl7ikOzdHyoNEZhorF52Zor4\nrE8vxxP3+hh8zFhO1Vnhy/iiPl+5jHJiLXaQy6AtZGYfu3TG7rpqgQKBgDwPHA6v\nbmI/EirytSGBeK5gVD15pFCOeDS0HYfA9bzm0jfcONYdMVGHtgKvIASH7TtsnGls\n6wm3JygkltK/z4d3htl7YmTz0NLBIh4H4wq/gVx/ve23A23GHTIxAKKsdBFQ1n+3\nXmLZKpryrFz0fVg/paill1i4bja57z85ph3hAoGATs4tAurliaIYSRGw8ko84YAl\nBWTi+BtRWpsrWZRbiOLoNoS4RdKBGns/cDIhSYR+oQYNyc6YWUjl769uJCjBhAJM\nekbniI7mrrfMpuS2cZot9qesMzl6l07BoXP9eUZ3goCEikP7mk7XpJDAlXhHZhg1\nVl+eAbk273dcnOno2FQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-api-dolibarr@test-dolibarr-197313.iam.gserviceaccount.com",
+  "client_id": "105329099403717233120",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-api-dolibarr%40test-dolibarr-197313.iam.gserviceaccount.com"
+}
